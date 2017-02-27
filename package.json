@@ -10,6 +10,6 @@
     "uuid": "^2.0.3"
   },
   "devDependencies": {
-    "iso8601-repeating-interval": "0.0.1"
+    "iso8601-repeating-interval": "0.1.0"
   }
 }
